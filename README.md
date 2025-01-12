@@ -1,4 +1,4 @@
-# README: A Small Optimized Search System
+# A Small Optimized Search System
 
 ## Overview
 This project is written and tested entirely on macOS Sequoia throughout the development process.
