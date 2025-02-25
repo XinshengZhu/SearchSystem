@@ -1,7 +1,7 @@
 # A Small Optimized Search System
 
 ## Overview
-This project is written and tested entirely on macOS Sequoia throughout the development process.
+This project is written and tested entirely on macOS throughout the development process.
 We also simply test the project on a Ubuntu docker container to ensure the compatibility.
 It may not work on other operating systems without modifications.
 
