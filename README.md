@@ -1,5 +1,7 @@
 # A Small Optimized Search System
 
+**_The following part of this project is in [RankingComparison](https://github.com/XinshengZhu/RankingComparison)_**
+
 ## Overview
 This project is written and tested entirely on macOS throughout the development process.
 We also simply test the project on a Ubuntu docker container to ensure the compatibility.
