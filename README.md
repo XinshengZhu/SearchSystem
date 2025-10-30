@@ -1,6 +1,6 @@
 # A Small Optimized Search System
 
-**_The next part of this project is in [RankingComparison](https://github.com/XinshengZhu/RankingComparison)_**
+**_The next part of this project is in [RankingComparison](https://github.com/XinshengZhu/RankingComparison)_**.
 
 ## Overview
 This project is written and tested entirely on macOS throughout the development process.
