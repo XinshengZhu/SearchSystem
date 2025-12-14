@@ -12,6 +12,8 @@ There are three main stages in this project:
 - Index Building: Creates compressed inverted index structure by merging intermediate files and generates a lexicon
 - Query Processing: Handles conjunctive and disjunctive searches based on queries and retrieves relevant documents
 
+
+
 ## Files
 Here's a brief description of all code files in the root directory (`SearchSystem/`) of the project:
 
