@@ -4,7 +4,7 @@
 
 ## Overview
 
-<img src="images/invertedindex2.png" alt="" width="400">
+<img src="images/invertedindex1.png" alt="" width="400">
 
 This project is written and tested entirely on macOS throughout the development process.
 We also simply test the project on a Ubuntu docker container to ensure the compatibility.
