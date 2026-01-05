@@ -2,11 +2,9 @@
 
 **_The next part of this project is in [RankingComparison](https://github.com/XinshengZhu/RankingComparison)_**.
 
-<img src="images/invertedindex2.png" alt="" width="400">
-
 ## Overview
 
-<img src="images/invertedindex1.png" alt="">
+<img src="images/invertedindex2.png" alt="" width="400">
 
 This project is written and tested entirely on macOS throughout the development process.
 We also simply test the project on a Ubuntu docker container to ensure the compatibility.
