@@ -4,8 +4,6 @@
 
 ## Overview
 
-<img src="images/invertedindex1.png" alt="" width="400">
-
 This project is written and tested entirely on macOS throughout the development process.
 We also simply test the project on a Ubuntu docker container to ensure the compatibility.
 It may not work on other operating systems without modifications.
@@ -14,6 +12,12 @@ There are three main stages in this project:
 - Data Parsing: Converts raw documents into intermediate format and creates a page table with SQLite
 - Index Building: Creates compressed inverted index structure by merging intermediate files and generates a lexicon
 - Query Processing: Handles conjunctive and disjunctive searches based on queries and retrieves relevant documents
+
+## Structure of Inverted Index
+
+<img src="images/invertedindex1.png" alt="" width="400">
+
+<img src="images/invertedindex2.png" alt="">
 
 ## Files
 Here's a brief description of all code files in the root directory (`SearchSystem/`) of the project:
